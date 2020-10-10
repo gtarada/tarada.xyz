@@ -1,1 +1,1 @@
-# [t.me/gennadytarada](tg)
+# [tg](t.me/gennadytarada)
