@@ -1,4 +1,6 @@
 ```python
+# -*- coding: utf-8 -*-
+
 contacts = {
     "phone": "+79658792758",
     "telegram": "@gtarada",
